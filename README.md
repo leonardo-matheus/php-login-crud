@@ -10,7 +10,7 @@ Desenvolvimento de um simples projeto CRUD utilizando o acesso a banco de dados 
 
 ## Configuração do Projeto:
 
-- Instalar o XAMPP e inicializar servidores Apache e MySQL
+- Instalar o XAMPP https://www.apachefriends.org/download.html e inicializar servidores Apache e MySQL
 - Executar a query usuarios.sql ou importar o arquivo no phpMyAdmin para criar a table necessária.
 - Executar o arquivo **index.html** 
 
