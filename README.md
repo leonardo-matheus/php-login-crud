@@ -14,10 +14,4 @@ Desenvolvimento de um simples projeto CRUD utilizando o acesso a banco de dados 
 - Executar a query usuarios.sql ou importar o arquivo no phpMyAdmin para criar a table necessária.
 - Executar o arquivo **index.html** 
 
-```
-$dbNome = 'nomeDaTable' 
-$dbHost = 'nomeDoDominioOuIP:Porta' 
-$dbUsuario = 'usuarioDoMysql' 
-$dbSenha 'senhaDoUsuario'
-
-```
+ 
